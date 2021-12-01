@@ -1,0 +1,38 @@
+{
+  "name": "enclink_back",
+  "version": "1.0.0",
+  "description": "Encurtador de links",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/server.js",
+    "dev": "set NODE_ENV=dev && nodemon ./src/server --ignore __tests__",
+    "pretest": "set NODE_ENV=test && sequelize-cli db:migrate",
+    "test": "set NODE_ENV=test && jest",
+    "postest": "set NODE_ENV=test && sequelize-cli db:migrate:undo:all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeividhyTonetti/encLink_back.git"
+  },
+  "author": "Deividhy J. Tonetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeividhyTonetti/encLink_back/issues"
+  },
+  "homepage": "https://github.com/DeividhyTonetti/encLink_back#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-alpha.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3",
+    "jest-cli": "^27.4.3",
+    "nodemon": "^2.0.15",
+    "sequelize-cli": "^6.3.0",
+    "sqlite3": "^5.0.2",
+    "supertest": "^6.1.6"
+  }
+}
