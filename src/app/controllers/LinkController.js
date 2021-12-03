@@ -41,7 +41,9 @@ class LinkController {
         }
       });
 
-      res.status(200).send(JSON.stringify(url, null, 2));
+      res.writeHead(301, {Location: url});
+      res.end();
+      // res.status(200).send(JSON.stringify(url, null, 2));
     } else {
       res.status(404).json({ message: 'Link does not exist'});
     }
