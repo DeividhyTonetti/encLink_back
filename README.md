@@ -1,4 +1,4 @@
-<h1 align="center">🔗 EncLin</h1>
+<h1 align="center">🔗 EncLink</h1>
 <p align="center">Encurtador links, simples e objetivo.</p>
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=Licence&message=MIT&color=2874F0"/>
@@ -72,6 +72,9 @@ $ cd (diretórtio...)
  
 # Instale as dependências do projeto
 $ npm install
+
+# Instale as migrations
+$ npx sequelize-cli db:migrate
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
