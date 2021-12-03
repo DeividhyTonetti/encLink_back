@@ -105,7 +105,7 @@ As seguintes ferramentas e bibliotecas foram usadas na construção do projeto:
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://www.linkedin.com/in/deividhytonetti6/">
  <img style="border-radius: 50%;" src=https://avatars.githubusercontent.com/u/34030150?s=96&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Deividhy Tonetti</b></sub></a> <a href="https://github.com/DeividhyTonetti" title="Rocketseat">🚀</a>
@@ -113,5 +113,5 @@ As seguintes ferramentas e bibliotecas foram usadas na construção do projeto:
 
 Feito com ❤️ por Deividhy J. Tonetti 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/deividhytonetti6/) 
-[![Hotmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:deividhytonetti@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deividhytonetti6/)](https://www.linkedin.com/in/deividhytonetti6/) 
+[![Hotmail Badge](https://img.shields.io/badge/-deividhytonetti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deividhytonetti@gmail.com)](mailto:deividhytonetti@gmail.com)
